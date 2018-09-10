@@ -1,0 +1,28 @@
+syntax="proto3";
+
+package tutorial;
+
+message Perfil {
+  string user = 1;
+  string password = 2;
+  
+  enum NumPreset {
+    PRESET1 = 0;
+    PRESET2 = 1;
+    PRESET3 = 2;
+  }
+
+  message Preset {
+    string valorPreset = 1;
+    NumPreset numPreset = 2;
+  }
+
+  repeated Preset preset = 3; 
+}
+
+message Perfiles {
+  repeated Perfil perfil = 1;
+}
+
+
+
