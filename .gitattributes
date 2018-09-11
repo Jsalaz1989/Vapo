@@ -1,2 +1,2 @@
 * linguist-documentation=false
-*.ino linguist-language=C++
+Arduinos/* linguist-language=JavaScript
