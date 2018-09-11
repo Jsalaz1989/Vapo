@@ -1,2 +1,2 @@
-* linguist-vendored=true
+*.ino linguist-vendored=false
 *.ino linguist-language=C++
