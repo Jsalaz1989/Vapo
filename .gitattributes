@@ -1,1 +1,2 @@
 * linguist-vendored=false
+*.h linguist-language=C++
