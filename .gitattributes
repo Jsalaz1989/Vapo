@@ -1,2 +1,1 @@
-Arduinos/* linguist-vendored=false
-Arduinos/* linguist-language=JavaScript
+*.ino linguist-language=C++
