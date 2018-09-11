@@ -1,2 +1,2 @@
 Arduinos/** linguist-documentation=false
-*.ino linguist-language=C++
+*.h linguist-language=C++
