@@ -1,3 +1,4 @@
+Arduinos/ linguist-documentation=false
 *.ino linguist-language=Arduino
 *.cpp linguist-language=Arduino
 *.hpp linguist-language=Arduino
