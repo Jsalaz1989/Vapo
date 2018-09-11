@@ -1,2 +1,2 @@
-Arduinos/**.ino linguist-documentation=true
+Arduinos/** linguist-documentation=true
 *.ino linguist-language=C++
